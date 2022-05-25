@@ -59,10 +59,7 @@ dependencies:
   hive: ^2.0.4
   hive_flutter: ^1.0.0
   http: ^0.13.3
-  image_downloader:
-    git:
-      url: https://github.com/squallsama/image_downloader.git
-      ref: flutter_migration_v2
+  image_downloader: ^0.31.0
   image_picker: ^0.8.2
   intl: ^0.17.0
   ionicons: ^0.1.2
